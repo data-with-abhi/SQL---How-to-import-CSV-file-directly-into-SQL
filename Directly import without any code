@@ -1,0 +1,21 @@
+Steps I Followed:
+
+1️⃣ First, create the structure of the table in SQL.
+
+2️⃣ Go to the database schemas section and select the required table.
+
+3️⃣ Right-click on the table.
+
+4️⃣ Select **Import/Export Data**.
+
+5️⃣ A dialog box will open.
+
+6️⃣ Click the **Import** option.
+
+7️⃣ Select the CSV file from your system.
+
+8️⃣ Choose the file format as **CSV**.
+
+9️⃣ Click **Next/Finish** to complete the import process.
+
+🔟 Finally, open the table to verify that the data has been imported successfully.
